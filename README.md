@@ -28,3 +28,5 @@ Overfitting. Mechanisms such as pruning (not currently supported), setting the m
 Decision trees can be unstable. Mitigant: Use decision trees within an ensemble.
 Cannot guarantee to return the globally optimal decision tree. Mitigant: Training multiple trees in an ensemble learner
 Decision tree learners create biased trees if some classes dominate. Recommendation: Balance the dataset prior to fitting
+
+Contributed by Naman Agrahari
